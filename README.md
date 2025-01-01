@@ -14,8 +14,8 @@ scikit-learn 1.3.2
 * preprocessing  
 We use the same setting as https://github.com/ziyujia/MSTGCN
 
-* feature extraction
+* feature extraction  
 train_featureNet.py
 
-* training
+* training  
 train.py
